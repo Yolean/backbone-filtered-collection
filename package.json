@@ -1,7 +1,7 @@
 {
-  "name": "backbone-filtered-collection",
+  "name": "yobo-filtered-collection",
   "description": "Create a filtered version of a backbone collection that stays in sync.",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "homepage": "http://github.com/jmorrell/backbone-filtered-collection",
   "main": "index.js",
   "license": "MIT",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jmorrell/backbone-filtered-collection.git"
+    "url": "https://github.com/Yolean/yobo-filtered-collection.git"
   },
   "scripts": {
     "start": "npm run bower && npm run build && npm run test",
